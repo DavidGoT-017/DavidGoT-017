@@ -1,8 +1,12 @@
 <h1 align=center>Hi, I'm David Gómez 👋</h1>
 
+###
+
 <div align="center">
   <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW92ams3dzRwczR2aWg1dnU0emFoNXkwbm9ydTJyMTlndXN3emN4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f6F2CnhvhE9lkUQdhY/giphy.gifaWQmY3Q9Zw/UX4U37Y9mdz3BXNbcA/giphy.gif"  />
 </div>
+
+###
 
 ---
 
@@ -46,9 +50,14 @@ Feel free to connect with me on LinkedIn.
 ---
 
 ### 📊 GitHub Stats
+
+###
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=DavidGoT-017&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
+
+###
 
 ---
 
