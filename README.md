@@ -46,12 +46,5 @@ Feel free to connect with me on LinkedIn.
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davidgot-017&layout=compact&theme=dracula&hide_border=true" height="150"/>
-</div>
-
----
-
 ### 📂 My Projects
 You can find my projects and repositories below. ⬇️⬇️⬇️
