@@ -8,10 +8,10 @@
 ---
 
 ### 🧑‍💻 About Me
-- :round_pushpin: **Location:** Bogotá, Colombia co
+- :round_pushpin: **Location:** Bogotá, Colombia
 - :e-mail: **Email:** davidgomezt.ing@outlook.com
 - :mortar_board: **Studies:** Software engineer
-- :school: **University:** Universidad EAN co
+- :school: **University:** Universidad EAN
 
 I'm a Software Engineering student from Colombia with a strong interest in networking, cloud computing, and software development. I enjoy learning through hands-on projects and applying technology to solve real-world problems.
 
