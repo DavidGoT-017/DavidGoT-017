@@ -47,8 +47,8 @@ Feel free to connect with me on LinkedIn.
 ---
 
 ### 📊 GitHub Stats
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidGoT-017&show_icons=true&theme=dracula&hide_border=true" height="170" />
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=davidgot-017&layout=compact&theme=dracula&hide_border=true" height="150"/>
 </div>
 
 ---
