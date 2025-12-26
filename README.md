@@ -1,7 +1,7 @@
 <h1 align=center>Hi, I'm David Gómez 👋</h1>
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/f6F2CnhvhE9lkUQdhY/giphy.gif" />
+  <img height="200" src="https://i.giphy.com/media/f6F2CnhvhE9lkUQdhY/giphy.gif" />
 </div>
 
 ---
@@ -47,7 +47,7 @@ Feel free to connect with me on LinkedIn.
 
 ### 📊 GitHub Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidGoT-017&show_icons=true&theme=dracula&count_private=true" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidGoT-017&show_icons=true&theme=dracula&hide_border=true" height="170" />
 </div>
 
 ---
