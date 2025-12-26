@@ -1,9 +1,10 @@
 <h1 align=center>Hi, I'm David Gómez 👋</h1>
+
 ###
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/f6F2CnhvhE9lkUQdhY/giphy.gif" />
 </div>
-###
+
 ---
 
 ### 🧑‍💻 About Me
